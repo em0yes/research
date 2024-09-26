@@ -18,13 +18,13 @@
 
 | Algorithm                | Verification Accuracy | Report                        |
 |--------------------------|-----------------------|--------------------------------|
-| [Decision Tree](https://github.com/em0yes/Research/blob/main/Experiments/train_dt.py)           | 0.65                  | [decision_tree_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/dt_validation_report.txt)     |
-| [Random Forest](https://github.com/em0yes/Research/blob/main/Experiments/train_rf.py)           | 0.76                  | [random_forest_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/rf_validation_report.txt)     |
-| [XGBoost](https://github.com/em0yes/Research/blob/main/Experiments/train_xgb.py)                 | 0.63                  | [xgboost_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/xgb_validation_report.txt)           |
-| [SVM](https://github.com/em0yes/Research/blob/main/Experiments/train_svm.py)                     | 0.42                  | [svm_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/svm_validation_report.txt)               |
-| [Logistic Regression](https://github.com/em0yes/Research/blob/main/Experiments/train_lr.py)     | 0.48                  | [logistic_regression_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/lr_validation_report.txt) |
-| [Gradient Boosting Model](https://github.com/em0yes/Research/blob/main/Experiments/train_gb.py) | 0.64                  | [gradient_boosting_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/gb_validation_report.txt) |
-| [KNN](https://github.com/em0yes/Research/blob/main/Experiments/train_knn.py)                     | 0.59                  | [knn_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/knn_validation_report.txt)               |
+| [Decision Tree](https://github.com/em0yes/research/blob/main/experiments/train_dt.py)           | 0.65                  | [decision_tree_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/dt_validation_report.txt)     |
+| [Random Forest]([https://github.com/em0yes/Research/blob/main/Experiments/train_rf.py](https://github.com/em0yes/research/blob/main/experiments/train_rf.py))           | 0.76                  | [random_forest_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/rf_validation_report.txt)     |
+| [XGBoost](https://github.com/em0yes/research/blob/main/experiments/train_xgb.py)                | 0.63                  | [xgboost_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/xgb_validation_report.txt)           |
+| [SVM](https://github.com/em0yes/research/blob/main/experiments/train_svm.py)                     | 0.42                  | [svm_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/svm_validation_report.txt)               |
+| [Logistic Regression](https://github.com/em0yes/research/blob/main/experiments/train_lr.py)     | 0.48                  | [logistic_regression_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/lr_validation_report.txt) |
+| [Gradient Boosting Model](https://github.com/em0yes/research/blob/main/experiments/train_gb.py) | 0.64                  | [gradient_boosting_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/gb_validation_report.txt) |
+| [KNN](https://github.com/em0yes/research/blob/main/experiments/train_knn.py)                    | 0.59                  | [knn_report.txt](https://github.com/em0yes/Research/blob/main/Experiments/reports/knn_validation_report.txt)               |
 
 #### 검증 정확도가 가장 높은 Random Forest 알고리즘을 사용하여 최적화를 진행.
 ---
